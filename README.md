@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-*(Coming soon)*
+> 📸 Screenshots will be added when the 3D rendering engine is complete.
 
 ## Installation
 
